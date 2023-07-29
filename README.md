@@ -12,6 +12,8 @@ Application multiplateforme de detection et de reconnaissance d'objets convertie
 </ol>
 
 <h2>Description de l'application</h2>
+Cette application de reconnaissance d'objets se compose de deux parties:
+La partie IA constiué d'algorithe de classification d'objets basées sur le modèle Yolov4 et entrainé sur le datasets COCO;
 <h2>Algorithme de reconnaissance d'objets</h2>
 <h2>Interface Graphique</h2>
 <h2>Installation et utilisation de l'application</h2>
