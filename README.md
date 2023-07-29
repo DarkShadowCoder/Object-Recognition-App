@@ -14,6 +14,9 @@ Application multiplateforme de detection et de reconnaissance d'objets convertie
 <h2>Description de l'application</h2>
 Cette application de reconnaissance d'objets se compose de deux parties:
 La partie IA constiué d'algorithe de classification d'objets basées sur le modèle Yolov4 et entrainé sur le datasets COCO;
+<br>La deuxième partie represente l'interface graphique codé avec Python: Kivy et integrant le modèle backend de la premiere partie.<br>
+Cette application permet de detecter et de reconnaitre les objets dans une zone de capture video selon 3 fonctionnalités:
+<li> La reconnaissance sur image: Ici </li>
 <h2>Algorithme de reconnaissance d'objets</h2>
 <h2>Interface Graphique</h2>
 <h2>Installation et utilisation de l'application</h2>
