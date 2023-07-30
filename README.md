@@ -1,8 +1,8 @@
 # Object-Recognition-App
 Application multiplateforme de detection et de reconnaissance d'objets convertie en Application Android et en application de bureau
-<br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <br/>
+<br/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <br/>
 <h2>Table de matière</h2>
 <ol>
