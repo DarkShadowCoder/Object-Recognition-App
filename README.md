@@ -4,7 +4,7 @@ Application multiplateforme de detection et de reconnaissance d'objets convertie
 <br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <br/>
-<img src = "https://www.bing.com/images/search?view=detailV2&ccid=J908NSz%2f&id=CBA0B2632E764BDD2D63A8077BF45A6B8BA2D63C&thid=OIP.J908NSz_CU5Mk7L46b_Y0wHaDt&mediaurl=https%3a%2f%2fstatic.wixstatic.com%2fmedia%2fc9d501_28eb20eca441440496645e867ee2e34e%7emv2.jpg%2fv1%2ffill%2fw_800%2ch_400%2cal_c%2cq_90%2fc9d501_28eb20eca441440496645e867ee2e34e%7emv2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.27dd3c352cff094e4c93b2f8e9bfd8d3%3frik%3dPNaii2ta9HsHqA%26pid%3dImgRaw%26r%3d0&exph=400&expw=800&q=Images+d%27IA+de+reconnaissance+d%27objets&simid=608029179079850853&FORM=IRPRST&ck=1E75B23AC8E48EA248F90C87D8437C4F&selectedIndex=32" width = "1200px" height = "600px"/>
+<img src = "" width = "1200px" height = "600px"/>
 <h2>Table de matière</h2>
 <ol>
   <a href=""><li>Description</li></a>
