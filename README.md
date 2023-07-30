@@ -32,5 +32,8 @@ Cette application permet de detecter et de reconnaitre les objets dans une zone 
 	 <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  	 <img alt="Static Badge" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white">
    	<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+ </p>
+	
 	 
 
