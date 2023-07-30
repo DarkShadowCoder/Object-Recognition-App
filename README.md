@@ -26,4 +26,9 @@ Cette application permet de detecter et de reconnaitre les objets dans une zone 
 <h2>Interface Graphique</h2>
 <h2>Installation et utilisation de l'application</h2>
 <h2>Crédits </h2>
+ <h3>Me contacter</h3>
+ <p>
+	 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	 <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	 
 
