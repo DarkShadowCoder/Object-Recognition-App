@@ -4,7 +4,7 @@ Application multiplateforme de detection et de reconnaissance d'objets convertie
 <br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <br/>
-<img src = "" width = "1200px" height = "600px" alt="image de reconnaissance d'objets"/>
+<img src = "https://github.com/DarkShadowCoder/Object-Recognition-App/blob/main/data/images/background.jpg" width = "1200px" height = "320px" alt="image de reconnaissance d'objets"/>
 <h2>Table de matière</h2>
 <ol>
   <a href=""><li>Description</li></a>
