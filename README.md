@@ -1,5 +1,6 @@
 # Object-Recognition-App
 Application multiplateforme de detection et de reconnaissance d'objets convertie en Application Android et en application de bureau
+<br>
 <br/>
 <br/>
 <h2>Table de matière</h2>
