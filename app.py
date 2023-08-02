@@ -13,16 +13,6 @@ from kivy.uix.video import Video
 from kivy.uix.screenmanager import ScreenManager , Screen
 from kivy.lang import Builder
 
-#Builder.load_string("""
- #   <RoundButton>:
-  #      canvas:
-   #         Color:
-    #            rgba:self.background_color
-     #   Ellipse:
-      #      text: "Démarrer"
-       #     pos:self.pos
-        #    size:self.size
-#""")
 
 class RoundButton(Button):
     pass
