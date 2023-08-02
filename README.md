@@ -1,4 +1,4 @@
-# Object-Recognition-App
+# Object-Recognition-App(APK)
 Application multiplateforme de detection et de reconnaissance d'objets convertie en Application Android et en application de bureau
 <br/>
 <br/>
